@@ -1,1 +1,2 @@
-print("¡Hola! Bienvenido a mi proyecto.")
+nombre = input("Ingrese su nombre: ")
+print(f"Hola {nombre}, bienvenido a mi repositorio")
